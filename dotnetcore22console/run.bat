@@ -1,0 +1,1 @@
+dotnet dotnetcore22console.dll
